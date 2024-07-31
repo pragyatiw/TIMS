@@ -1,2 +1,2 @@
 # TIMS
-The Tools Information Management System (TIMS) is an advanced software solution designed to meet the specialized needs of the Nuclear Fuel Complex (NFC). TIMS is currently under development and aims to streamline the management and tracking of tools within NFC’s operations, ensuring efficiency, accuracy, and security.
+This repository contains my comprehensive report on the Tools Information Management System (TIMS) at the Nuclear Fuel Complex (NFC). The report provides an in-depth analysis of the development process, key features, architecture, and technologies used in the project. It also covers challenges faced and solutions implemented, along with future enhancements and potential use cases. 
